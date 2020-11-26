@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>category on Hugo tranquilpeak theme</title>
-    <link>http://zhushengl.github.io/categories/category/</link>
+    <link>https://zhushengl.github.io/categories/category/</link>
     <description>Recent content in category on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2020 15:10:03 +0800</lastBuildDate><atom:link href="http://zhushengl.github.io/categories/category/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Nov 2020 15:10:03 +0800</lastBuildDate><atom:link href="https://zhushengl.github.io/categories/category/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>http://zhushengl.github.io/2020/11/first/</link>
+      <link>https://zhushengl.github.io/2020/11/first/</link>
       <pubDate>Thu, 26 Nov 2020 15:10:03 +0800</pubDate>
       
-      <guid>http://zhushengl.github.io/2020/11/first/</guid>
+      <guid>https://zhushengl.github.io/2020/11/first/</guid>
       <description>Hello Hugo  aaa bbb ccc  </description>
     </item>
     
