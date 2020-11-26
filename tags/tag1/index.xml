@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tag1 on Hugo tranquilpeak theme</title>
+    <title>tag1 on Hugo</title>
     <link>https://zhushengl.github.io/tags/tag1/</link>
-    <description>Recent content in tag1 on Hugo tranquilpeak theme</description>
+    <description>Recent content in tag1 on Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Nov 2020 15:10:03 +0800</lastBuildDate><atom:link href="https://zhushengl.github.io/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
